@@ -9,6 +9,11 @@ public class Main {
         int e = 10;
         int f = a + b + c + d - e;
         System.out.println(f);
+        int r = b*2;
+        int t = f^2;
+        int u = r*2 + f;
+        int z = a + c + f + r + t +u;
+        System.out.println(z);
     }
 
 }
