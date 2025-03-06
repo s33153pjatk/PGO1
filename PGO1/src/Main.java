@@ -11,7 +11,7 @@ public class Main {
         System.out.println(f);
         int r = b*2;
         int t = f^2;
-        int u = r*2 + f;
+        int u = r*3 + f;
         int z = a + c + f + r + t +u;
         System.out.println(z);
     }
